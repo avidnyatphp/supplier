@@ -1,0 +1,114 @@
+{
+  "user_notifications": [
+    {
+      "id": 359,
+      "read": false,
+      "message": "A new booking for Nature Adventure Camp in Kanakapura has been made for an amount of Rs.2200/- for 2016-06-07",
+      "sourceable_id": 31974,
+      "sourceable_type": "Booking",
+      "created_at": "2016-06-07T14:00:43+05:30",
+      "event_name": "booking_success",
+      "r_id": 1290,
+      "r_type": "Vendor",
+      "sender_info": {
+        "id": -100,
+        "name": "platform",
+        "profile_image": ""
+      },
+      "data": {
+        "sid": 31974,
+        "st": "Booking"
+      }
+    },
+    {
+      "id": 344,
+      "read": false,
+      "message": "A new booking for Nature Adventure Camp in Kanakapura has been made for an amount of Rs.2200/- for 2016-06-15",
+      "sourceable_id": 31943,
+      "sourceable_type": "Booking",
+      "created_at": "2016-06-03T23:08:25+05:30",
+      "event_name": "booking_success",
+      "r_id": 1290,
+      "r_type": "Vendor",
+      "sender_info": {
+        "id": -100,
+        "name": "platform",
+        "profile_image": ""
+      },
+      "data": {
+        "sid": 31943,
+        "st": "Booking"
+      }
+    },
+    {
+      "id": 314,
+      "read": false,
+      "message": "A new booking for Nature Adventure Camp in Kanakapura has been made for an amount of Rs.2200/- for 2016-06-02",
+      "sourceable_id": 31911,
+      "sourceable_type": "Booking",
+      "created_at": "2016-06-02T17:46:44+05:30",
+      "event_name": "booking_success",
+      "r_id": 1290,
+      "r_type": "Vendor",
+      "sender_info": {
+        "id": -100,
+        "name": "platform",
+        "profile_image": ""
+      },
+      "data": {
+        "sid": 31911,
+        "st": "Booking"
+      }
+    },
+    {
+      "id": 313,
+      "read": false,
+      "message": "A new booking for Nature Adventure Camp in Kanakapura has been made for an amount of Rs.2200/- for 2016-06-03",
+      "sourceable_id": 31910,
+      "sourceable_type": "Booking",
+      "created_at": "2016-06-02T17:36:20+05:30",
+      "event_name": "booking_success",
+      "r_id": 1290,
+      "r_type": "Vendor",
+      "sender_info": {
+        "id": -100,
+        "name": "platform",
+        "profile_image": ""
+      },
+      "data": {
+        "sid": 31910,
+        "st": "Booking"
+      }
+    },
+    {
+      "id": 309,
+      "read": false,
+      "message": "A new booking for Nature Adventure Camp in Kanakapura has been made for an amount of Rs.2200/- for 2016-06-07",
+      "sourceable_id": 31889,
+      "sourceable_type": "Booking",
+      "created_at": "2016-06-01T14:18:51+05:30",
+      "event_name": "booking_success",
+      "r_id": 1290,
+      "r_type": "Vendor",
+      "sender_info": {
+        "id": -100,
+        "name": "platform",
+        "profile_image": ""
+      },
+      "data": {
+        "sid": 31889,
+        "st": "Booking"
+      }
+    }
+  ],
+  "client": {
+    "force_update": false,
+    "soft_update": false,
+    "client_id": 186283,
+    "authentication_token": "EYQE4wUBTH5EdgmTczss"
+  },
+  "total_pages": 8,
+  "page_number": "1",
+  "total_count": 37,
+  "unread_count": 37
+}
